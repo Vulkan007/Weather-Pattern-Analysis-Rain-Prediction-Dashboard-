@@ -47,22 +47,22 @@ Generated data summary files:
 ## 🚀 How to Use
 
 1. Clone this repository:
-   ```bash
+   
    git clone https://github.com/yourusername/weather-dashboard-analysis.git
    cd weather-dashboard-analysis
-````
+
 
 2. Install dependencies:
 
-   ```bash
+   
    pip install pandas numpy xlsxwriter
-   ```
+
 
 3. Run the script:
 
-   ```bash
+
    python weather_summary.py
-   ```
+ 
 
 4. Import the generated CSVs or Excel into Power BI for visualization.
 
