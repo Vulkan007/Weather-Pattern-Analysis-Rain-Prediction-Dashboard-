@@ -70,7 +70,7 @@ Generated data summary files:
 
 ---
 
-## 📈 Sample Dashboards
+## 📈  Dashboards
 
 * Regional weather trends by location
 * Rainfall and sunshine correlation visual
