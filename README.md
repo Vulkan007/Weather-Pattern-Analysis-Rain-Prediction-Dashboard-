@@ -41,6 +41,8 @@ Generated data summary files:
 - `rainfall_vs_sunshine.csv`: Sunshine levels segmented by rainfall amount
 - `wind_impact_on_rain.csv`: Wind gust direction vs rain probability
 - `missing_data_summary.csv`: Percentage of missing data for quality control
+- ![image](https://github.com/user-attachments/assets/b4a03480-ab3a-4cfb-9df2-a24f2681778a)
+
 
 ---
 
