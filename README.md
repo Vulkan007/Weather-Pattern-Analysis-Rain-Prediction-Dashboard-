@@ -48,7 +48,7 @@ Generated data summary files:
 
 1. Clone this repository:
    
-   git clone https://github.com/yourusername/weather-dashboard-analysis.git
+   git clone https://github.com/Vulkan007/weather-dashboard-analysis.git
    cd weather-dashboard-analysis
 
 
